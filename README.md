@@ -2,6 +2,7 @@
 
 This is a simple React application that generates random quotes fetched from a remote JSON file. Users can click a button to generate a new quote and view the associated author.
 
+![image](https://github.com/gitikadhole/Random-Quote-Generator/assets/112191177/887e8719-20e5-48f9-84f5-8980587953eb)
 
 ## Installation
 
